@@ -1,2 +1,3 @@
 # hello-world
-Repository for GitHub tutorial
+My name is Craig.
+Repository for GitHub tutorial.
